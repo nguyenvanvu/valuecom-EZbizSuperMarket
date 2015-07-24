@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="EZbizSuperMarket.Android\EZbizSuperMarket.Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus_5_API_22_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid\MainActivity.cs">
+    <Files>
+      <File FileName="EZbizSuperMarket.Share\MyClass.cs" Line="4" Column="2" />
+      <File FileName="EZbizSuperMarket.Share\Model\EmptyClass.cs" Line="7" Column="23" />
+      <File FileName="Droid\MainActivity.cs" Line="11" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>EZbizSuperMarket\EZbizSuperMarket.shproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.EZbizSuperMarket.Android AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

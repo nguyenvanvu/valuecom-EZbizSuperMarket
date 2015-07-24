@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EZbizSuperMarket.Android", "EZbizSuperMarket.Android\EZbizSuperMarket.Android.csproj", "{7639017A-98C4-4E59-8143-E1B003791199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EZbizSuperMarket.Android.UITests", "EZbizSuperMarket.Android.UITests\EZbizSuperMarket.Android.UITests.csproj", "{7804EE21-37A7-42BD-B265-8E7C0C983F27}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "EZbizSuperMarket.Shared", "EZbizSuperMarket.Shared\EZbizSuperMarket.Shared.shproj", "{F59F892B-AE4B-44EB-A1A8-F9A5A345D120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EZbizSuperMarket.Services", "EZbizSuperMarket.Services\EZbizSuperMarket.Services.csproj", "{3D707231-4C0B-4597-AC72-DC945FAF9AB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D707231-4C0B-4597-AC72-DC945FAF9AB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D707231-4C0B-4597-AC72-DC945FAF9AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D707231-4C0B-4597-AC72-DC945FAF9AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D707231-4C0B-4597-AC72-DC945FAF9AB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7639017A-98C4-4E59-8143-E1B003791199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7639017A-98C4-4E59-8143-E1B003791199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7639017A-98C4-4E59-8143-E1B003791199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7639017A-98C4-4E59-8143-E1B003791199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7804EE21-37A7-42BD-B265-8E7C0C983F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7804EE21-37A7-42BD-B265-8E7C0C983F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7804EE21-37A7-42BD-B265-8E7C0C983F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7804EE21-37A7-42BD-B265-8E7C0C983F27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
